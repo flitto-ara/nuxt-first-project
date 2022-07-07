@@ -15,7 +15,7 @@ context 객체는 asyncData , plugins , middleware, nuxtServerInit과 같은 특
 HMR 기능, 현재 route, page params 및 query에도 접근할 수 있다.
 
 게다가 모듈 함수들과 헬퍼들을 서버, 클라이언트 사이드 렌더링 모두에서 사용할 수 있도록 컨텍스트를 통해 노출할 수 있다. 
-![](./image/스크린샷 2022-07-07 오후 3.36.17.png)
+![](https://github.com/flitto-ara/nuxt-first-project/tree/main/docs/image/스크린샷 2022-07-07 오후 3.36.17.png)
 ```ts
 function (context) { // Could be asyncData, nuxtServerInit, ...
   // Always available
@@ -90,7 +90,7 @@ export default {
 }
 ```
 
-![](./image/스크린샷 2022-07-07 오후 3.49.17.png)
+![](https://github.com/flitto-ara/nuxt-first-project/tree/main/docs/image/스크린샷 2022-07-07 오후 3.49.17.png)
 
 ## Helpers
 context shorcuts 뿐만 아니라, helpers 도 있다!

@@ -35,7 +35,7 @@ export default function (req, res, next) {
   next()
 }
 ```
-![](./image/스크린샷 2022-07-07 오후 6.30.32.png)
+![](https://github.com/flitto-ara/nuxt-first-project/tree/main/docs/image/스크린샷 2022-07-07 오후 6.30.32.png)
 
 ### 서버 vs 브라우저 환경
 노드를 사용하기때문에 노드 오브젝트들에게 접근할 수 있다. (ex. req, res)
