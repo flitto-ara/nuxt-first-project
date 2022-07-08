@@ -1,5 +1,6 @@
 <template>
   <!-- Your template -->
+  <div>신고당해</div>
 </template>
 <script>
 export default {
